@@ -4,7 +4,7 @@
   "description": "@xiangnanscu's packages ",
   "main": "index.js",
   "scripts": {
-    "push": "git add . && git commit -am '$msg' && git push",
+    "push": "git add . && git commit -am $msg && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
