@@ -1,0 +1,26 @@
+{
+  "name": "@xiangnanscu/packages",
+  "version": "1.0.0",
+  "description": "@xiangnanscu's packages ",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -am '$MSG' && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangnanscu/packages.git"
+  },
+  "keywords": [
+    "mvc",
+    "model",
+    "validator",
+    "sql"
+  ],
+  "author": "xiangnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangnanscu/packages/issues"
+  },
+  "homepage": "https://github.com/xiangnanscu/packages#readme"
+}
