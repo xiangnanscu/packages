@@ -16,3 +16,6 @@
 [submodule "lua_modules"]
 	path = lua_modules
 	url = git@github.com:xiangnanscu/lua_modules.git
+[submodule "model"]
+	path = model
+	url = git@github.com:xiangnanscu/model.git
