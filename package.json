@@ -4,6 +4,7 @@
   "description": "@xiangnanscu's packages ",
   "main": "index.js",
   "scripts": {
+    "update":"git submodule update --recursive --remote",
     "push": "git add . && git commit -am \"${msg:-push}\" && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

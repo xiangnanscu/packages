@@ -1,3 +1,18 @@
 [submodule "validator"]
 	path = validator
 	url = git@github.com:xiangnanscu/validator.git
+[submodule "field"]
+	path = field
+	url = git@github.com:xiangnanscu/field.git
+[submodule "sql"]
+	path = sql
+	url = git@github.com:xiangnanscu/sql.git
+[submodule "modelsql"]
+	path = modelsql
+	url = git@github.com:xiangnanscu/modelsql.git
+[submodule "fee"]
+	path = fee
+	url = git@github.com:xiangnanscu/fee.git
+[submodule "lua_modules"]
+	path = lua_modules
+	url = git@github.com:xiangnanscu/lua_modules.git
